@@ -1,0 +1,15 @@
+body{
+	background-color:#e8e8e8;
+}
+div{
+	padding:5px;
+}
+.error{
+	color:red;
+}
+.success{
+	color:green;
+}
+#form{
+	 width: 30%;
+}
